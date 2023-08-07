@@ -4,7 +4,9 @@ Este repositorio contiene un análisis de datos de viajes en la ciudad de Nueva 
 
 ## Descripción del Conjunto de Datos
 
-El conjunto de datos contiene información sobre viajes en taxi verde, incluyendo detalles sobre la fecha y hora del viaje, la duración, la distancia, el costo total y la propina. También se incluyen datos de ubicación, como el punto de recogida y destino.
+El conjunto de datos contiene información sobre viajes en taxi verde, incluyendo detalles sobre la fecha y hora del viaje, la duración, la distancia, el costo total y la propina. 
+
+También se cuenta con otro conjunto de datos con la ubicación, el punto de recogida y destino.
 
 ## Librerías Utilizadas
 
